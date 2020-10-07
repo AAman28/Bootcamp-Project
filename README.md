@@ -1,2 +1,2 @@
 # Bootcamp-Project
-Project
+Bootcamp project
