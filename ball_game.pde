@@ -58,11 +58,11 @@ void draw()
     //reset the x and y values as the user has hovered over a circle
     score = score +1;
     //give the user a point for hovering over a circle
-    if (score ==50)
+    if (score ==35)
     {
       background(0);
       textSize(20);
-      text("Victory! You attained a score of 50!", 0, height/2);
+      text("Victory! You attained a score of 35!", 0, height/2);
       frameRate(0); //end screen for once the user has beat the game
     }
   }
